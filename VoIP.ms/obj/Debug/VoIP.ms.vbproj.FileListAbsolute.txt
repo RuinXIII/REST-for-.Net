@@ -1,0 +1,45 @@
+C:\Users\Fernando Rodriguez\Desktop\Examples REST for .Net\VoIP.ms\VoIP.ms\bin\Debug\VoIP.ms.exe.config
+C:\Users\Fernando Rodriguez\Desktop\Examples REST for .Net\VoIP.ms\VoIP.ms\bin\Debug\VoIP.ms.exe
+C:\Users\Fernando Rodriguez\Desktop\Examples REST for .Net\VoIP.ms\VoIP.ms\bin\Debug\VoIP.ms.pdb
+C:\Users\Fernando Rodriguez\Desktop\Examples REST for .Net\VoIP.ms\VoIP.ms\bin\Debug\VoIP.ms.xml
+C:\Users\Fernando Rodriguez\Desktop\Examples REST for .Net\VoIP.ms\VoIP.ms\obj\Debug\VoIP.ms.vbprojAssemblyReference.cache
+C:\Users\Fernando Rodriguez\Desktop\Examples REST for .Net\VoIP.ms\VoIP.ms\obj\Debug\VoIP.ms.frmExamples.resources
+C:\Users\Fernando Rodriguez\Desktop\Examples REST for .Net\VoIP.ms\VoIP.ms\obj\Debug\VoIP.ms.Resources.resources
+C:\Users\Fernando Rodriguez\Desktop\Examples REST for .Net\VoIP.ms\VoIP.ms\obj\Debug\VoIP.ms.vbproj.GenerateResource.cache
+C:\Users\Fernando Rodriguez\Desktop\Examples REST for .Net\VoIP.ms\VoIP.ms\obj\Debug\VoIP.ms.vbproj.CoreCompileInputs.cache
+C:\Users\Fernando Rodriguez\Desktop\Examples REST for .Net\VoIP.ms\VoIP.ms\obj\Debug\VoIP.ms.exe
+C:\Users\Fernando Rodriguez\Desktop\Examples REST for .Net\VoIP.ms\VoIP.ms\obj\Debug\VoIP.ms.xml
+C:\Users\Fernando Rodriguez\Desktop\Examples REST for .Net\VoIP.ms\VoIP.ms\obj\Debug\VoIP.ms.pdb
+C:\Users\Fernando Rodriguez\Desktop\Examples REST for .Net\VoIP.ms\VoIP.ms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fernando Rodriguez\Desktop\Examples REST for .Net\VoIP.ms\VoIP.ms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fernando Rodriguez\Desktop\Examples REST for .Net\VoIP.ms\VoIP.ms\obj\Debug\VoIP.ms.vbproj.CopyComplete
+C:\Users\Fernando Rodriguez\Desktop\API\Examples REST for .Net\VoIP.ms\bin\Debug\VoIP.ms.exe.config
+C:\Users\Fernando Rodriguez\Desktop\API\Examples REST for .Net\VoIP.ms\bin\Debug\VoIP.ms.exe
+C:\Users\Fernando Rodriguez\Desktop\API\Examples REST for .Net\VoIP.ms\bin\Debug\VoIP.ms.pdb
+C:\Users\Fernando Rodriguez\Desktop\API\Examples REST for .Net\VoIP.ms\bin\Debug\VoIP.ms.xml
+C:\Users\Fernando Rodriguez\Desktop\API\Examples REST for .Net\VoIP.ms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fernando Rodriguez\Desktop\API\Examples REST for .Net\VoIP.ms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fernando Rodriguez\Desktop\API\Examples REST for .Net\VoIP.ms\obj\Debug\VoIP.ms.vbprojAssemblyReference.cache
+C:\Users\Fernando Rodriguez\Desktop\API\Examples REST for .Net\VoIP.ms\obj\Debug\VoIP.ms.frmExamples.resources
+C:\Users\Fernando Rodriguez\Desktop\API\Examples REST for .Net\VoIP.ms\obj\Debug\VoIP.ms.Resources.resources
+C:\Users\Fernando Rodriguez\Desktop\API\Examples REST for .Net\VoIP.ms\obj\Debug\VoIP.ms.vbproj.GenerateResource.cache
+C:\Users\Fernando Rodriguez\Desktop\API\Examples REST for .Net\VoIP.ms\obj\Debug\VoIP.ms.vbproj.CoreCompileInputs.cache
+C:\Users\Fernando Rodriguez\Desktop\API\Examples REST for .Net\VoIP.ms\obj\Debug\VoIP.ms.vbproj.CopyComplete
+C:\Users\Fernando Rodriguez\Desktop\API\Examples REST for .Net\VoIP.ms\obj\Debug\VoIP.ms.exe
+C:\Users\Fernando Rodriguez\Desktop\API\Examples REST for .Net\VoIP.ms\obj\Debug\VoIP.ms.xml
+C:\Users\Fernando Rodriguez\Desktop\API\Examples REST for .Net\VoIP.ms\obj\Debug\VoIP.ms.pdb
+C:\Users\Ruyn\Downloads\API\API\Examples REST for .Net\VoIP.ms\bin\Debug\VoIP.ms.exe.config
+C:\Users\Ruyn\Downloads\API\API\Examples REST for .Net\VoIP.ms\bin\Debug\VoIP.ms.exe
+C:\Users\Ruyn\Downloads\API\API\Examples REST for .Net\VoIP.ms\bin\Debug\VoIP.ms.pdb
+C:\Users\Ruyn\Downloads\API\API\Examples REST for .Net\VoIP.ms\bin\Debug\VoIP.ms.xml
+C:\Users\Ruyn\Downloads\API\API\Examples REST for .Net\VoIP.ms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ruyn\Downloads\API\API\Examples REST for .Net\VoIP.ms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ruyn\Downloads\API\API\Examples REST for .Net\VoIP.ms\obj\Debug\VoIP.ms.vbprojAssemblyReference.cache
+C:\Users\Ruyn\Downloads\API\API\Examples REST for .Net\VoIP.ms\obj\Debug\VoIP.ms.frmExamples.resources
+C:\Users\Ruyn\Downloads\API\API\Examples REST for .Net\VoIP.ms\obj\Debug\VoIP.ms.Resources.resources
+C:\Users\Ruyn\Downloads\API\API\Examples REST for .Net\VoIP.ms\obj\Debug\VoIP.ms.vbproj.GenerateResource.cache
+C:\Users\Ruyn\Downloads\API\API\Examples REST for .Net\VoIP.ms\obj\Debug\VoIP.ms.vbproj.CoreCompileInputs.cache
+C:\Users\Ruyn\Downloads\API\API\Examples REST for .Net\VoIP.ms\obj\Debug\VoIP.ms.vbproj.CopyComplete
+C:\Users\Ruyn\Downloads\API\API\Examples REST for .Net\VoIP.ms\obj\Debug\VoIP.ms.exe
+C:\Users\Ruyn\Downloads\API\API\Examples REST for .Net\VoIP.ms\obj\Debug\VoIP.ms.xml
+C:\Users\Ruyn\Downloads\API\API\Examples REST for .Net\VoIP.ms\obj\Debug\VoIP.ms.pdb
