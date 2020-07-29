@@ -105,3 +105,7 @@ Private Sub btnGetIPAddress_Click(sender As Object, e As EventArgs) Handles btnG
         End If
     End Sub
 ```
+
+# Support
+
+Please note that we do NOT provide support with your programming language. The only support provided by our staff is for bugs, documentation errors, documentation missing or other questions regarding the functionality of the API. Support regarding the API will be addressed via the ticketing system only at [support@voip.ms](support@voip.ms). Our programmers do not have access to the Live Chat. 
